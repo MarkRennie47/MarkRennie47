@@ -4,14 +4,14 @@
 
 # Hey there! 👋 I'm Mark  
 
-💻 **Computer Engineering student** | 💡 **Developer | Creator | Learner**  
+**Computer Engineering student** | 💡 **Developer | Creator | Learner**  
 
 I love building things that combine logic, design, and creativity. Whether it’s a website, an app, or an idea that sparks at 2 AM — I’m always down to create something meaningful and fun.  
 
-- 🚀 Currently exploring **AI + Full Stack Web Development**  
-- 🌱 Learning how to turn ideas into fully functional, scalable apps  
+- 💻 Currently exploring **AI + Full Stack Web Development**  
+- 😎 Learning how to turn ideas into fully functional, scalable apps  
 - 🧠 Interests: Web Dev, Machine Learning, and interactive UIs  
-- 🎨 I also enjoy **music editing**, **video editing**, and **graphic design**  
+- 🎧 I also enjoy **music editing**, **video editing**, and **graphic design**  
 - 🔥 I believe code is a medium of expression, not just logic  
 
 🛠️ **Tech Stack:**  
