@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="Banner" width="800"/>
+</p>
+
 # Hey there! 👋 I'm Mark  
 
 💻 **Computer Engineering student** | 💡 **Developer | Creator | Learner**  
