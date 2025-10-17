@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋 I'm Mark  
 
-<!--
-**MarkRennie47/MarkRennie47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Engineering student** | 💡 **Developer | Creator | Learner**  
 
-Here are some ideas to get you started:
+I love building things that combine logic, design, and creativity. Whether it’s a website, an app, or an idea that sparks at 2 AM — I’m always down to create something meaningful and fun.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently exploring **AI + Full Stack Web Development**  
+- 🌱 Learning how to turn ideas into fully functional, scalable apps  
+- 🧠 Interests: Web Dev, Machine Learning, and interactive UIs  
+- 🎨 I also enjoy **music editing**, **video editing**, and **graphic design**  
+- 🔥 I believe code is a medium of expression, not just logic  
+
+🛠️ **Tech Stack:**  
+`C` · `C++` · `Java` · `JavaScript` · `Node.js` · `React` · `Firebase` · `MongoDB`
+
+📚 **Currently Working On:**  
+Building personal projects that blend **AI + Web Development**, and constantly improving my design sense.
+
+📫 **Let’s Connect:**  
+- Portfolio: [Coming soon 🚧]  
+- LinkedIn: [linkedin.com/in/mark-rennie-dasam-866a022b6/](#)  
+- Email: [rennie0407@gmail.com](mailto:rennie0407@gmail.com)  
+
+> “Some build for money. I build because I can’t *not* build.”
